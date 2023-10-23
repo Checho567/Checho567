@@ -1,0 +1,10 @@
+C:\Users\danil\OneDrive\Documentos\.NET\Ahorcado\bin\Debug\Ahorcado.exe.config
+C:\Users\danil\OneDrive\Documentos\.NET\Ahorcado\bin\Debug\Ahorcado.exe
+C:\Users\danil\OneDrive\Documentos\.NET\Ahorcado\bin\Debug\Ahorcado.pdb
+C:\Users\danil\OneDrive\Documentos\.NET\Ahorcado\obj\Debug\Ahorcado.csproj.AssemblyReference.cache
+C:\Users\danil\OneDrive\Documentos\.NET\Ahorcado\obj\Debug\Ahorcado.Form1.resources
+C:\Users\danil\OneDrive\Documentos\.NET\Ahorcado\obj\Debug\Ahorcado.Properties.Resources.resources
+C:\Users\danil\OneDrive\Documentos\.NET\Ahorcado\obj\Debug\Ahorcado.csproj.GenerateResource.cache
+C:\Users\danil\OneDrive\Documentos\.NET\Ahorcado\obj\Debug\Ahorcado.csproj.CoreCompileInputs.cache
+C:\Users\danil\OneDrive\Documentos\.NET\Ahorcado\obj\Debug\Ahorcado.exe
+C:\Users\danil\OneDrive\Documentos\.NET\Ahorcado\obj\Debug\Ahorcado.pdb
